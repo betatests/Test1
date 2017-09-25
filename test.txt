@@ -1,3 +1,7 @@
 halo halo
 Bandung
+Ibukota<<<<<<< HEAD
 Ibukota
+=======
+ibu kota
+>>>>>>> 0c8c949b31b2446f9e7d7da35b310eadefd0543c
